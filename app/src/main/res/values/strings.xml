@@ -1,0 +1,12 @@
+<resources>
+  <string name="app_name">Rugby Score Counter</string>
+  <string name="team_a">Team A</string>
+  <string name="team_b">Team B</string>
+  <string name="zero">0</string>
+  <string name="reset">reset</string>
+  <string name="tryy">Try</string>
+  <string name="penalty_try">Penalty Try</string>
+  <string name="conversion_goal">Conversion Goal</string>
+  <string name="penalty_goal">Penalty Goal</string>
+  <string name="dropped_goal">Dropped Goal</string>
+</resources>
